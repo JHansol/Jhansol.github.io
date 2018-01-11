@@ -41,6 +41,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
- encoding: utf-8
-highlighter: rouge
-highlighter: Pygments
