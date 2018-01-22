@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 토비의 스프링 요약 정리
-tags: [Spring, Markdown]
+tags: [Spring, Test, Ipsum, Markdown, Portfolio]
 ---
 
 # 토비의 스프링 (1)
