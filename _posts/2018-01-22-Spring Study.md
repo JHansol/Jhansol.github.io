@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 토비의 스프링 요약 정리
-tags: [Spring, Markdown]토토
+tags: [Spring, Markdown]
 ---
 
 # 토비의 스프링 (1)
