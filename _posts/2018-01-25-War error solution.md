@@ -40,6 +40,6 @@ tags: [Postman, Test, Ipsum, Markdown, Portfolio]
 	</build>
 ```
 
-<resources> ~ </resource> 부분을 <build> 사이에 추가한다.
+<*resources> ~ </*resource> 부분을 <*build> 사이에 추가한다.
 
 다시 개발서버에서 mvnw로 빌드한 뒤 war 파일을 구동시키면 정상적으로 작동이 될 것이다. 
