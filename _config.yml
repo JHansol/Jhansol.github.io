@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "https://jhansol.github.io/"
 url: "https://jhansol.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -16,18 +16,18 @@ theme_settings:
      <p>"hello world!"</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   NHN Entertainment SKY TF hansol Blog.
+   NHN Entertainment hansol Blog.
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "linears_@naver.com"# Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "JHansol"
   google_plus:
   instagram:
   keybase:
