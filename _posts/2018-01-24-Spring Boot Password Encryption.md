@@ -12,6 +12,7 @@ tags: [Postman, Test, Ipsum, Markdown, Portfolio]
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
 			</dependency>
+
 우선 스프링 프로젝트에서 pom.xml에 다음과 같이 추가한다.
 
 그 다음 config 파일을 생성하여 BCryptPasswordEncoder 빈 객체를 생성시켜줘야 한다.
