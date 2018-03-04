@@ -4,8 +4,6 @@ title: BaseCamp 회고록
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
-# reminiscence 
-
 - 커버로스, 게이트웨이
   1. Kerberous Overview (RFC 1510,1964,4120)
      - 커버로스는 미국 MIT대에서 개발된 대칭키(암,복호화 키가 동일) 방식의 인증 시스템이다. 정확히는 개방된 네트워크 내에서 서비스 요구를 인증하기 위해 대칭키 암호기법에 바탕을 둔 티켓 기반 인증 프로토콜이다. 동시에 KDC(key distribution center) 역할도 한다.
