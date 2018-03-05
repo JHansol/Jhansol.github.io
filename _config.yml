@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://jhansol.github.io/"
+baseurl: ""
 url: "https://jhansol.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
